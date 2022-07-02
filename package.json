@@ -1,0 +1,32 @@
+{
+  "name": "lotus-whatsapp-webhook",
+  "version": "1.0.0",
+  "description": "LotusHub Whatsapp Webhook",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morshud/whtasapp-webhook.git"
+  },
+  "keywords": [
+    "Whatsapp",
+    "Webhook",
+    "Meta",
+    "Facebook",
+    "LotusHub"
+  ],
+  "author": "Moshood Gbadamosi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "request": "^2.88.2"
+  },
+  "bugs": {
+    "url": "https://github.com/morshud/whtasapp-webhook/issues"
+  },
+  "homepage": "https://github.com/morshud/whtasapp-webhook"
+}
